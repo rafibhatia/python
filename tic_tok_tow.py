@@ -7,6 +7,7 @@ def display_board(board):
     print(board[3] + ' | ' + board[4] + ' | ' + board[5])
     print('---------')
     print(board[6] + ' | ' + board[7] + ' | ' + board[8])
+    
 
 
 def player_move(board, player):
