@@ -1,9 +1,4 @@
-def tziv(first, last):
-    print(f'hi there {first} and {last}')
+print()
 
-
-rafi = tziv('rafi', 'bhatia')
-
-
-
-name = input('enter your name')
+name = 'rafi' 
+input()
